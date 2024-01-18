@@ -59,7 +59,7 @@ jobs:
       Solution_Name: Benjamin.Andre.FeatureMatching.sln
       Test_Project_Path: Benjamin.Andre.FeatureMatching.Tests\Benjamin.Andre.FeatureMatching.Tests.csproj
       Wap_Project_Directory: Benjamin.Andre.FeatureMatching.WebApi
-      Wap_Project_Path: Benjamin.Andre.FeatureMatching.WebApi.csproj
+      Wap_Project_Path: Benjamin.Andre.FeatureMatching.WebApi\Benjamin.Andre.FeatureMatching.WebApi.csproj
 
     steps:
     - name: Checkout
